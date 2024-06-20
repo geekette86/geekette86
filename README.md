@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geekette86
-- 👀 I’m interested in devops culture and tech stack, speciall GCP as cloud provider
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on  anything really open
+- 👀 I’m interested in devops culture, new tech, distrubuted systems,public cloud
+- I work actually at Deezer before that @SGI and i was a devops/cloud Architect
+- 💞️ I’m looking to collaborate and help in any open source project 
 - 📫 Reach me on geekette86@gmail.com
 
 <!---
